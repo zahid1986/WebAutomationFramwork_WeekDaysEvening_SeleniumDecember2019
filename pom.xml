@@ -14,6 +14,7 @@
     <modules>
         <module>Generic</module>
         <module>Amazon</module>
+        <module>CNN</module>
     </modules>
 
     <properties>
